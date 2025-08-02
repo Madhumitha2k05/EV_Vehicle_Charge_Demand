@@ -65,6 +65,7 @@ Run all cells to see the analysis and prediction.
 - Tried different features and compared model performances.
 - Improved data visualizations for better insights.
 
+
 9. Deployment
 
 The final model was deployed, allowing users to input new data (like fuel prices and year) and get predicted EV adoption numbers.
@@ -83,7 +84,7 @@ The final model was deployed, allowing users to input new data (like fuel prices
 
 
 
-12. Future Scope
+11. Future Scope
 
 
 Integrate external factors like weather, income levels, and charging station count.
@@ -96,7 +97,7 @@ Extend the project to other regions or countries.
 
 
 
-13. How This Project Helps
+12. How This Project Helps
 
 
 Assists policymakers and urban planners in forecasting EV infrastructure demand.

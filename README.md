@@ -64,3 +64,43 @@ Run all cells to see the analysis and prediction.
 - Performed outlier removal for better model accuracy.
 - Tried different features and compared model performances.
 - Improved data visualizations for better insights.
+
+9. Deployment
+
+The final model was deployed, allowing users to input new data (like fuel prices and year) and get predicted EV adoption numbers.
+
+
+
+10. Project Output
+
+- Forecasted electric vehicle adoption trends over time.
+- Visualized county-wise and time-based adoption patterns.
+- Model performance was evaluated using:
+  - Mean Absolute Error (MAE)
+  - Mean Squared Error (MSE)
+  - R² Score
+- Best performing model: *Random Forest Regression*
+
+
+
+12. Future Scope
+
+
+Integrate external factors like weather, income levels, and charging station count.
+
+Try deep learning models such as LSTM for time-series forecasting.
+
+Build a dashboard for real-time EV demand monitoring.
+
+Extend the project to other regions or countries.
+
+
+
+13. How This Project Helps
+
+
+Assists policymakers and urban planners in forecasting EV infrastructure demand.
+
+Helps automotive industries align production with market needs.
+
+Supports sustainable transportation initiatives using data-driven decisions.
